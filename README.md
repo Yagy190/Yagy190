@@ -94,30 +94,6 @@ Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yagy190&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagy190&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagy190&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yagy190&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Deep Learning
