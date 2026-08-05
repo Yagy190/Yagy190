@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yagy</h1>
 
 <h3 align="center">
-Aspiring AI Engineer | Computer Science Student 
+🤖 Aspiring AI Engineer | 🎓 Computer Science Student 
 </h3>
 
 <p align="center">
-
-🌱 Currently learning Machine Learning & Artificial Intelligence 
-
-💻 Passionate about AI, Computer Vision and Python
-
-🚀 Building projects every week
-
+Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and solving real-world problems with technology.
 </p>
 
 ---
@@ -19,76 +13,149 @@ Aspiring AI Engineer | Computer Science Student
 # 🚀 About Me
 
 - 🎓 Computer Science Student
-- 🤖 Future AI Engineer
-- 📚 Currently learning DSA, ML and Computer Vision
-- 🎯 Goal: Become an AI Engineer at a top tech company
+- 🤖 Aspiring AI Engineer
+- 💡 Passionate about AI, Machine Learning, and Computer Vision
+- 💻 Love building practical AI projects
+- 🌱 Currently learning Deep Learning and Data Structures & Algorithms
+- 🎯 Goal: Become an AI Engineer and contribute to impactful AI products
+
+---
+
+# 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 🤖 Artificial Intelligence & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Machine Learning
+- Computer Vision
+- Data Analysis
+- Natural Language Processing (NLP)
 
-### AI / ML
+### 📚 Libraries & Frameworks
 
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+- OpenCV
+- MediaPipe
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow (Learning)
+- Keras
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+### 🧰 Tools
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
 # 🚀 Featured Projects
 
-🖱️ Virtual Mouse
-
-🎨 Air Drawing
-
-🌦️ Weather Prediction
-
-🌸 Iris Flower Classification
-
-🧩 Sudoku Solver
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🤖 AI Copilot | AI-powered assistant capable of answering user queries and assisting with tasks. |
+| ✈️ AI Travel Planner | Generates personalized travel plans using AI concepts. |
+| 🖱️ Virtual Mouse | Control the computer cursor with real-time hand gestures using OpenCV and MediaPipe. |
+| 🎨 Air Drawing | Draw virtually in the air using hand tracking and computer vision. |
+| 🌦️ Weather Prediction | Predict daily temperature using Linear Regression. |
+| 🌸 Iris Flower Classification | Decision Tree model for classifying Iris flower species. |
+| 🧩 Sudoku Solver | Solve Sudoku puzzles using Backtracking Algorithm. |
+| ✊ Rock Paper Scissors | Python implementation of the classic Rock-Paper-Scissors game. |
 
 ---
 
-# 📈 GitHub Stats
+# 🧠 Skills
 
-![](https://github-readme-stats.vercel.app/api?username=Yagy190&show_icons=true&theme=tokyonight)
+✔ Artificial Intelligence
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yagy190&theme=tokyonight)
+✔ Machine Learning
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagy190&layout=compact&theme=tokyonight)
+✔ Computer Vision
+
+✔ Data Structures & Algorithms
+
+✔ Data Analysis
+
+✔ Python Programming
+
+✔ Object-Oriented Programming
+
+✔ Problem Solving
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yagy190&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yagy190&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagy190&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yagy190&theme=tokyonight&row=1&column=6"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- Machine Learning
 - Deep Learning
-- Computer Vision
 - PyTorch
+- TensorFlow
+- Large Language Models (LLMs)
+- System Design
+- Open Source Contribution
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build 25+ AI Projects
+
+✅ Master Machine Learning
+
+✅ Learn Deep Learning
+
+✅ Learn PyTorch
+
+✅ Learn TensorFlow
+
+✅ Contribute to Open Source
 
 
 ---
 
 # 📫 Connect With Me
 
-GitHub:
-https://github.com/Yagy190
-
-LinkedIn:
-https://www.linkedin.com/in/yagy-v-deshmukh-15065b329
-
-Email:
-yagy.deshmukh@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/yagy-v-deshmukh-15065b329/
+- 📧 Email : yagy.deshmukh@gmail.com
+- 💻 GitHub: https://github.com/Yagy190
 
 ---
 
-⭐ Thanks for visiting my profile!
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
