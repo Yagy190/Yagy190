@@ -1,54 +1,94 @@
-👋 Hi, I'm Yagy
+<h1 align="center">Hi 👋, I'm Yagy</h1>
 
-🤖 Aspiring AI Engineer
-🎓 Computer Science Student
-🇮🇳 India
+<h3 align="center">
+Aspiring AI Engineer | Computer Science Student 
+</h3>
 
--------------------------------------
+<p align="center">
 
-💻 Tech Stack
-Python | OpenCV | MediaPipe | NumPy
-Pandas | Scikit-Learn | Git | GitHub
+🌱 Currently learning Machine Learning & Artificial Intelligence 
 
--------------------------------------
+💻 Passionate about AI, Computer Vision and Python
 
-🚀 Featured Projects
+🚀 Building projects every week
+
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 Computer Science Student
+- 🤖 Future AI Engineer
+- 📚 Currently learning DSA, ML and Computer Vision
+- 🎯 Goal: Become an AI Engineer at a top tech company
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI / ML
+
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+
+---
+
+# 🚀 Featured Projects
 
 🖱️ Virtual Mouse
+
 🎨 Air Drawing
+
 🌦️ Weather Prediction
+
 🌸 Iris Flower Classification
+
 🧩 Sudoku Solver
 
--------------------------------------
+---
 
-📈 GitHub Stats
-🔥 Streak
-💻 Languages
-📊 Stats
+# 📈 GitHub Stats
 
--------------------------------------
+![](https://github-readme-stats.vercel.app/api?username=Yagy190&show_icons=true&theme=tokyonight)
 
-🌱 Currently Learning
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yagy190&theme=tokyonight)
 
-✔ DSA
-✔ Machine Learning
-✔ Deep Learning
-✔ Computer Vision
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagy190&layout=compact&theme=tokyonight)
 
--------------------------------------
+---
 
-🎯 2026 Goals
+# 🌱 Currently Learning
 
-✓ 20+ AI Projects
-✓ Learn PyTorch
-✓ Learn TensorFlow
-✓ Open Source Contributions
-✓ Internship
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- PyTorch
 
--------------------------------------
 
-📫 Connect With Me
-GitHub
-LinkedIn
-Email
+---
+
+# 📫 Connect With Me
+
+GitHub:
+https://github.com/Yagy190
+
+LinkedIn:
+https://www.linkedin.com/in/yagy-v-deshmukh-15065b329
+
+Email:
+yagy.deshmukh@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
