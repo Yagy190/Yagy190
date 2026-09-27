@@ -173,6 +173,3 @@ I love building projects that combine intelligent systems with real-world applic
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer" />
-</p>
