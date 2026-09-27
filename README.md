@@ -1,137 +1,120 @@
-<h1 align="center">Hi 👋, I'm Yagy</h1>
+# Hi, I'm Yagy Deshmukh 👋
 
-<h3 align="center">
-🤖 Aspiring AI Engineer | 🎓 Computer Science Student 
-</h3>
+### 💻 Computer Science Student | 🤖 Aspiring AI Engineer | 🚀 Building AI-Powered Projects
 
-<p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and solving real-world problems with technology.
-</p>
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and software development**. I enjoy turning ideas into practical projects and exploring how AI can solve real-world problems.
 
----
-
-# 🚀 About Me
-
-- 🎓 Computer Science Student
-- 🤖 Aspiring AI Engineer
-- 💡 Passionate about AI, Machine Learning, and Computer Vision
-- 💻 Love building practical AI projects
-- 🌱 Currently learning Deep Learning and Data Structures & Algorithms
-- 🎯 Goal: Become an AI Engineer and contribute to impactful AI products
+* 🔭 Currently building AI-powered applications.
+* 🤖 Interested in Machine Learning, Deep Learning, and Generative AI.
+* 🌱 Learning more about LLMs, RAG, and AI application development.
+* 💡 I enjoy experimenting with Python, automation, and intelligent systems.
+* 🎯 My goal is to become an AI Engineer and build useful, impactful technology.
 
 ---
 
-# 💻 Programming Languages
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Programming Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-# 🛠 Tech Stack
+### AI / Machine Learning
 
-### 🤖 Artificial Intelligence & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
-- Machine Learning
-- Computer Vision
-- Data Analysis
-- Natural Language Processing (NLP)
+### Tools & Development
 
-### 📚 Libraries & Frameworks
-
-- OpenCV
-- MediaPipe
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow (Learning)
-- Keras
-
-### 🧰 Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| 🚀 Project | 📖 Description |
-|------------|----------------|
-| 🤖 AI Copilot | AI-powered assistant capable of answering user queries and assisting with tasks. |
-| ✈️ AI Travel Planner | Generates personalized travel plans using AI concepts. |
-| 🖱️ Virtual Mouse | Control the computer cursor with real-time hand gestures using OpenCV and MediaPipe. |
-| 🎨 Air Drawing | Draw virtually in the air using hand tracking and computer vision. |
-| 🌦️ Weather Prediction | Predict daily temperature using Linear Regression. |
-| 🌸 Iris Flower Classification | Decision Tree model for classifying Iris flower species. |
-| 🧩 Sudoku Solver | Solve Sudoku puzzles using Backtracking Algorithm. |
-| ✊ Rock Paper Scissors | Python implementation of the classic Rock-Paper-Scissors game. |
+### 🛡️ [ReviewShield-AI](https://github.com/Yagy190/ReviewShield-AI)
 
----
+**AI-Powered Customer Review Intelligence Platform**
 
-# 🧠 Skills
+A platform designed to analyze customer reviews and help businesses understand customer feedback.
 
-✔ Artificial Intelligence
+* Sentiment analysis and review insights.
+* Analytics dashboards and review trends.
+* Suspicious review detection and recurring issue identification.
+* AI-powered insights and alerts.
+* Built with a React and TypeScript frontend and a Node.js backend.
 
-✔ Machine Learning
+### 🎓 [Career Shield](https://github.com/Yagy190/Career-Shield-Website-)
 
-✔ Computer Vision
+**Career Support Web Application**
 
-✔ Data Structures & Algorithms
+A web application focused on helping users with career-related needs.
 
-✔ Data Analysis
+* Full-stack application with a frontend and backend.
+* Python-based backend.
+* Built as a practical web development project.
 
-✔ Python Programming
+### 🤖 AI & Machine Learning Projects
 
-✔ Object-Oriented Programming
+* **Weather Prediction** — Predicting weather-related outcomes using machine learning.
+* **House Price Prediction** — A machine learning project for estimating house prices.
+* **Spam Mail Detector** — Classifying messages as spam or legitimate.
+* **Movie Recommender** — Recommending movies based on user preferences.
+* **Iris Flower Classification** — A classic machine learning classification project.
 
-✔ Problem Solving
+### 🖐️ Computer Vision & Automation
 
----
+* **Virtual Mouse** — Controlling mouse actions using hand gestures.
+* **Air Drawing** — Drawing in the air using computer vision and hand tracking.
+* **Universal Gesture Controller** — Using hand gestures to interact with a computer.
 
-# 🌱 Currently Learning
+### 🧩 Python Projects
 
-- Deep Learning
-- PyTorch
-- TensorFlow
-- Large Language Models (LLMs)
-- System Design
-- Open Source Contribution
+* **Sudoku Solver** — Solving Sudoku puzzles programmatically.
 
----
-
-# 🎯 2026 Goals
-
-✅ Build 25+ AI Projects
-
-✅ Master Machine Learning
-
-✅ Learn Deep Learning
-
-✅ Learn PyTorch
-
-✅ Learn TensorFlow
-
-✅ Contribute to Open Source
-
+Explore my repositories for source code and project details.
 
 ---
 
-# 📫 Connect With Me
+## 📚 Currently Learning
 
-- 💼 LinkedIn : https://www.linkedin.com/in/yagy-v-deshmukh-15065b329/
-- 📧 Email : yagy.deshmukh@gmail.com
-- 💻 GitHub: https://github.com/Yagy190
+* Machine Learning and Deep Learning
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Embeddings and Vector Databases
+* AI Application Development
+* Data Structures and Algorithms
 
 ---
 
-<h3 align="center">
+## 📊 GitHub Stats
 
-⭐ Thanks for visiting my profile! ⭐
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yagy190\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-</h3>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagy190\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yagy190\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Yagy190)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+
+📫 Feel free to explore my repositories and connect with me!
+
+---
+
+⭐ *Thanks for visiting my profile! I'm always learning, building, and exploring new ideas in AI and software development.*
