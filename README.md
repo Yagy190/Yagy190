@@ -157,6 +157,22 @@ I love building projects that combine intelligent systems with real-world applic
   <a href="https://leetcode.com/u/cbf34MPx7t/">
     <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.linkedin.com/in/yagy-v-deshmukh-15065b329/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yagydeshmukh.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💡 Keep learning. Keep building. Keep exploring. 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer" />
+</p>
+
 </p>
 
 <p align="center">
