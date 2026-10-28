@@ -1,77 +1,92 @@
-# Hey, I'm Yagy 👋
+# Yagy | AI Engineer in the Making 🤖
 
-### Computer Science Student | Aspiring AI Engineer | Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+AI-powered+Applications;Turning+Ideas+Into+Real+Projects" alt="Typing animation" />
+</p>
 
-I enjoy building intelligent applications that solve real-world problems. I'm exploring the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Development**, turning ideas into practical projects.
-
-- 🤖 Exploring AI engineering, LLMs, and intelligent systems
-- 💻 Building full-stack applications with frontend and backend technologies
-- 🔐 Interested in AI security, cybersecurity, and reliable AI systems
-- 🚀 Learning by building projects, experimenting, and collaborating
-- 🎯 Goal: Become an AI Engineer and build impactful software
+<p align="center">
+  <a href="https://github.com/Yagy190">
+    <img src="https://img.shields.io/badge/GitHub-Yagy190-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0A84FF?style=for-the-badge" alt="AI Focus" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-161B22?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Always Learning" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Interests
+## `01` — About Me
+
+I'm a Computer Science student passionate about **Artificial Intelligence and building practical software**.
+
+- 🤖 Exploring AI engineering, machine learning, and intelligent applications.
+- 🛠️ Building real-world projects that combine AI and software development.
+- 🧠 Strengthening my foundations in programming, DSA, and system design.
+- 🚀 Focused on learning by building, experimenting, and improving.
+
+> My goal: turn ideas into useful, reliable AI-powered products.
+
+## `02` — Tech Stack
 
 **Languages**
-  
-Python · JavaScript · TypeScript · SQL
 
-**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" alt="Python, JavaScript, TypeScript" />
+</p>
 
-React · HTML · CSS · TypeScript
+**Development**
 
-**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" alt="React, Node.js, Express, HTML, CSS" />
+</p>
 
-Node.js · Express · REST APIs · Python
+**Tools**
 
-**AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+</p>
 
-Machine Learning · LLMs · NLP · RAG · AI Agents
+## `03` — Featured Projects
 
-**Tools & Platforms**
+### 🛡️ CyberSleuth AI
+An AI-focused cybersecurity project involving synthetic security datasets and security analysis.
 
-Git · GitHub · VS Code · Postman
+### ⭐ ReviewShield AI
+A full-stack review analysis platform designed to surface insights from customer reviews using AI-powered services.
 
----
+### 💼 CareerShield
+A career-focused web application built to help users explore career-related resources.
 
-### 🚀 Featured Projects
-
-#### 🛡️ CyberSleuth AI
-Exploring AI-driven cybersecurity through security scenarios, synthetic datasets, evaluation metrics, and testing for reliable AI systems.
-
-#### ⭐ ReviewShield AI
-An AI-powered review analysis project focused on understanding customer feedback, sentiment, suspicious reviews, and recurring issues.
-
-#### 🧑‍💻 CareerShield
-A full-stack web project focused on career-related support and opportunities.
-
-Explore my repositories for source code, implementation details, and project updates.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yagy190&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yagy190&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🤝 Let's Connect
-
-- 💻 GitHub: [@Yagy190](https://github.com/Yagy190)
-- 🌱 Always learning and building something new
-
----
-
-*Building, learning, and improving — one project at a time.*
 <p align="center">
-  <b>💡 Keep learning. Keep building. Keep exploring. 🚀</b>
+  <a href="https://github.com/Yagy190?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories" />
+  </a>
+</p>
+
+## `04` — GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yagy190&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagy190&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=footer" />
+  <img src="https://streak-stats.demolab.com?user=Yagy190&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+## `05` — Let's Connect
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me on Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/Yagy190">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building. Learning. Experimenting. Repeating.</i> ⚡
+</p>
