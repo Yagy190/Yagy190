@@ -33,27 +33,34 @@ My approach is simple: **learn the fundamentals, build real systems, and improve
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ CyberSleuth AI</h3>
-      <p>Exploring AI-assisted cybersecurity through synthetic security datasets and analysis.</p>
-      <sub>CYBERSECURITY · AI · DATA</sub>
+      <h3>◈ Universal Gesture Controller</h3>
+      <p>A gesture-based controller project focused on exploring intuitive, hands-free computer interaction.</p>
+      <sub>COMPUTER VISION · GESTURE RECOGNITION · INTERACTION</sub>
       <br/><br/>
-      <a href="https://github.com/Yagy190">Explore project →</a>
+      <a href="https://github.com/Yagy190/Universal-_Gesture_Controller">Explore project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>◈ ReviewShield AI</h3>
-      <p>A full-stack review analysis platform designed to surface patterns and AI-powered insights.</p>
-      <sub>AI APPLICATIONS · TYPESCRIPT · FULL-STACK</sub>
+      <h3>◈ ARIA</h3>
+      <p>An AI project showcasing my exploration of intelligent software systems.</p>
+      <sub>AI · SOFTWARE ENGINEERING</sub>
       <br/><br/>
-      <a href="https://github.com/Yagy190/ReviewShield-AI">Explore project →</a>
+      <a href="https://github.com/Yagy190/aria">Explore project →</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>◈ CareerShield</h3>
-      <p>A career-focused web application built around practical user needs.</p>
-      <sub>WEB DEVELOPMENT · PRODUCT BUILDING</sub>
+    <td width="50%" valign="top">
+      <h3>◈ Aegis</h3>
+      <p>A software project focused on building practical technology through engineering and experimentation.</p>
+      <sub>SOFTWARE DEVELOPMENT · ENGINEERING</sub>
       <br/><br/>
-      <a href="https://github.com/Yagy190/Career-Shield-Website-">Explore project →</a>
+      <a href="https://github.com/Yagy190/Aegis">Explore project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Career Copilot AI</h3>
+      <p>An AI-focused project exploring intelligent assistance for career-related workflows.</p>
+      <sub>GENERATIVE AI · CAREER TECHNOLOGY</sub>
+      <br/><br/>
+      <a href="https://github.com/Swastik15-sachdeva/carrier_copilot-ai-/tree/Yagy">Explore project →</a>
     </td>
   </tr>
 </table>
@@ -64,12 +71,12 @@ My approach is simple: **learn the fundamentals, build real systems, and improve
 
 <p><strong>LANGUAGES</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" alt="Python, SQL , c++ , c , java , JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" alt="Python, C, C++, Java, JavaScript, TypeScript" />
 </p>
 
 <p><strong>APPLICATION DEVELOPMENT</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark" alt="React, Node.js,  HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark" alt="React, Node.js, Express, HTML, CSS" />
 </p>
 
 <p><strong>DEVELOPER TOOLS</strong></p>
