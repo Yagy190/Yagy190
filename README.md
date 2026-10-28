@@ -89,10 +89,10 @@ My focus is on combining software engineering, AI, and practical problem-solving
 
 <p><strong>DEVELOPER TOOLS</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Git, GitHub, VS Code, Jupyter" />
+  <br/>
+  <sub>Git · GitHub · VS Code · Jupyter Notebook · Spyder IDE</sub>
 </p>
-
-<br/>
 
 ## `04` &nbsp; Current exploration
 
