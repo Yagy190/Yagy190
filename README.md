@@ -22,9 +22,11 @@
 
 ## `01` &nbsp; The direction
 
-I'm interested in the engineering behind intelligent products — from building full-stack applications to exploring how AI can extract insights, recognize patterns, and solve practical problems.
+I'm interested in the engineering behind intelligent products — from full-stack applications to AI systems that recognize patterns, interpret real-world conditions, and help people make better decisions.
 
-My approach is simple: **learn the fundamentals, build real systems, and improve through experimentation.**
+My focus is on combining software engineering, AI, and practical problem-solving to build technology that addresses meaningful challenges.
+
+**Learn the fundamentals. Build real systems. Improve through experimentation.**
 
 <br/>
 
@@ -34,15 +36,15 @@ My approach is simple: **learn the fundamentals, build real systems, and improve
   <tr>
     <td width="50%" valign="top">
       <h3>◈ Universal Gesture Controller</h3>
-      <p>A gesture-based controller project focused on exploring intuitive, hands-free computer interaction.</p>
-      <sub>COMPUTER VISION · GESTURE RECOGNITION · INTERACTION</sub>
+      <p>Exploring hands-free computer interaction through gesture-based control, making digital experiences more intuitive and accessible.</p>
+      <sub>GESTURE RECOGNITION · COMPUTER VISION · HUMAN-COMPUTER INTERACTION</sub>
       <br/><br/>
       <a href="https://github.com/Yagy190/Universal-_Gesture_Controller">Explore project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>◈ ARIA</h3>
-      <p>An AI project showcasing my exploration of intelligent software systems.</p>
-      <sub>AI · SOFTWARE ENGINEERING</sub>
+      <p>An assistive navigation system for blind and visually impaired users, combining voice interaction, walking routes, crowdsourced hazard reports, and vehicle alerts to support safer journeys.</p>
+      <sub>ACCESSIBILITY · PYTHON · GEMINI · GOOGLE MAPS · FIREBASE</sub>
       <br/><br/>
       <a href="https://github.com/Yagy190/aria">Explore project →</a>
     </td>
@@ -50,15 +52,15 @@ My approach is simple: **learn the fundamentals, build real systems, and improve
   <tr>
     <td width="50%" valign="top">
       <h3>◈ Aegis</h3>
-      <p>A software project focused on building practical technology through engineering and experimentation.</p>
-      <sub>SOFTWARE DEVELOPMENT · ENGINEERING</sub>
+      <p>An AI-driven disaster detection and early-warning concept designed to turn satellite and atmospheric data into location-specific risk alerts and actionable information for emergency response.</p>
+      <sub>AI/ML · EARTH OBSERVATION · RISK ANALYSIS · EARLY WARNING</sub>
       <br/><br/>
       <a href="https://github.com/Yagy190/Aegis">Explore project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>◈ Career Copilot AI</h3>
       <p>An AI-focused project exploring intelligent assistance for career-related workflows.</p>
-      <sub>GENERATIVE AI · CAREER TECHNOLOGY</sub>
+      <sub>GENERATIVE AI · CAREER TECHNOLOGY · SOFTWARE DEVELOPMENT</sub>
       <br/><br/>
       <a href="https://github.com/Swastik15-sachdeva/carrier_copilot-ai-/tree/Yagy">Explore project →</a>
     </td>
@@ -79,6 +81,12 @@ My approach is simple: **learn the fundamentals, build real systems, and improve
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark" alt="React, Node.js, Express, HTML, CSS" />
 </p>
 
+<p><strong>AI, DATA & INTEGRATIONS</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />
+  &nbsp; Gemini API · Google Maps API · AI/ML · Data Analysis
+</p>
+
 <p><strong>DEVELOPER TOOLS</strong></p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
@@ -91,16 +99,16 @@ My approach is simple: **learn the fundamentals, build real systems, and improve
 <table>
   <tr>
     <td width="33%" valign="top">
-      <p><strong>01 / AI SYSTEMS</strong></p>
-      <p>Building practical AI-powered applications and exploring LLM-based solutions.</p>
+      <p><strong>01 / INTELLIGENT SYSTEMS</strong></p>
+      <p>Exploring AI-powered applications, language models, risk analysis, and systems that turn data into useful decisions.</p>
     </td>
     <td width="33%" valign="top">
-      <p><strong>02 / ENGINEERING</strong></p>
-      <p>Improving software architecture, API development, and full-stack fundamentals.</p>
+      <p><strong>02 / REAL-WORLD IMPACT</strong></p>
+      <p>Building technology around accessibility, safer navigation, disaster awareness, and practical human needs.</p>
     </td>
     <td width="33%" valign="top">
-      <p><strong>03 / FOUNDATIONS</strong></p>
-      <p>Strengthening programming, data structures, algorithms, and problem-solving.</p>
+      <p><strong>03 / ENGINEERING FOUNDATIONS</strong></p>
+      <p>Strengthening data structures, algorithms, API development, system design, and full-stack engineering.</p>
     </td>
   </tr>
 </table>
@@ -109,9 +117,9 @@ My approach is simple: **learn the fundamentals, build real systems, and improve
 
 ## `05` &nbsp; Beyond the code
 
-I believe good engineering is more than writing code. It's understanding the problem, making thoughtful trade-offs, and building something that works reliably.
+I believe good engineering is about more than making software work. It's about understanding the problem, considering real-world constraints, and designing systems that are useful, accessible, and reliable.
 
-I'm interested in collaborating on meaningful projects, learning from other engineers, and turning ambitious ideas into tangible results.
+I'm interested in collaborating with people who enjoy solving challenging problems, experimenting with emerging technologies, and turning ambitious ideas into practical solutions.
 
 <br/>
 
